@@ -42,11 +42,11 @@ Hardware Used
 
 
 Software Stack
-- Python
+- Raspberry Pi OS
+- Mission Planner
 - DroneKit
 - MAVLink
-- ArduPilot
-- Mission Planner
+- Python
 
 
  Applications
