@@ -4,7 +4,7 @@
 
 Overview
 
-The Autonomous Drone Docking System is an intelligent unmanned aerial vehicle (UAV) platform developed using a Pixhawk Flight Controller and a Raspberry Pi companion computer.
+The Autonomous Drone Docking System is an intelligent unmanned aerial vehicle (UAV) platform developed using a Pixhawk Flight Controller and a Raspberry Pi.
 
 The system is designed to improve autonomous drone operations through intelligent battery monitoring and mission management. By continuously tracking battery status during flight, the drone can make autonomous decisions to ensure safe operation without constant human supervision.
 
