@@ -1,5 +1,6 @@
 
 # Autonomous Drone Docking System
+<img width="711" height="800" alt="image" src="https://github.com/user-attachments/assets/8f783ee2-8142-4206-a46d-e3e44d3b9505" />
 
 Overview
 
@@ -10,10 +11,10 @@ The system is designed to improve autonomous drone operations through intelligen
 This project demonstrates the integration of embedded systems, autonomous flight control, MAVLink communication, and Python-based mission logic into a modular UAV platform suitable for long-duration operations.
 
 
-Problem Statement
+# Problem Statement
 Battery life remains one of the biggest challenges in autonomous drone operations. Applications such as military surveillance, disaster response, industrial inspection, and agricultural monitoring require drones to operate reliably over extended periods while minimizing manual intervention.
 
-Solution
+# Solution
 The system continuously monitors the drone's battery level during flight. When the battery reaches a predefined threshold, the mission controller initiates an autonomous return procedure, ensuring safe recovery of the drone.
 
 
@@ -29,8 +30,7 @@ Features
 - Modular Python Architecture
 
 
-
- Hardware Used
+Hardware Used
 - Pixhawk 2.4.8 Flight Controller
 - Raspberry Pi
 - GPS Module
@@ -41,7 +41,6 @@ Features
 - Radio Controller
 
 
-
 Software Stack
 - Python
 - DroneKit
@@ -50,21 +49,7 @@ Software Stack
 - Mission Planner
 
 
-Project Workflow
-Mission Start
-↓
-Battery Monitoring
-↓
-Threshold Detection
-↓
-Mission Decision
-↓
-Return Navigation
-↓
-Safe Landing
-
-
-## Applications
+ Applications
 - Military Surveillance
 - Disaster Management
 - Agriculture
